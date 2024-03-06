@@ -1,0 +1,11 @@
+const ProductData=[
+{"id":0,"name":"Xiaomi","description":"Xiaomi Redmi Note 13 PRO+ Plus 5G + 4G LTE (512GB + 12GB) 6.67 200MP Triple (Tmobile Mint Tello & Global) Global Bands Unlocked + (Fast Car Dual Charger Bundle) (Aurora Purple (Global ROM))","imageUrl":"https://m.media-amazon.com/images/I/51Uufs2mhjL._AC_UY327_FMwebp_QL65_.jpg","price":7999},
+{"id":1,"name":"iPhone 5S","description":"Xiaomi Redmi Note 13 PRO+ Plus 5G + 4G LTE (512GB + 12GB) 6.67 200MP Triple (Tmobile Mint Tello & Global) Global Bands Unlocked + (Fast Car Dual Charger Bundle) (Aurora Purple (Global ROM))","imageUrl":"https://m.media-amazon.com/images/I/81BCsF4teOL._AC_UY327_FMwebp_QL65_.jpg","price":34999},
+{"id":2,"name":"iPhone 5S","description":"Xiaomi Redmi Note 13 PRO+ Plus 5G + 4G LTE (512GB + 12GB) 6.67 200MP Triple (Tmobile Mint Tello & Global) Global Bands Unlocked + (Fast Car Dual Charger Bundle) (Aurora Purple (Global ROM))","imageUrl":"https://m.media-amazon.com/images/I/81BCsF4teOL._AC_UY327_FMwebp_QL65_.jpg","price":34999},
+{"id":3,"name":"Realme 5S","description":"Xiaomi Redmi Note 13 PRO+ Plus 5G + 4G LTE (512GB + 12GB) 6.67 200MP Triple (Tmobile Mint Tello & Global) Global Bands Unlocked + (Fast Car Dual Charger Bundle) (Aurora Purple (Global ROM))","imageUrl":"https://m.media-amazon.com/images/I/81BCsF4teOL._AC_UY327_FMwebp_QL65_.jpg","price":34999},
+{"id":4,"name":"Macbook Air","description":"Kogi skateboard tattooed, whatever portland fingerstache coloring book mlkshk leggings flannel dreamcatcher.","imageUrl":"https://m.media-amazon.com/images/I/51eUDrkf9RL._AC_UY327_FMwebp_QL65_.jpg","price":9994},
+{"id":5,"name":"iPhone 5S","description":"Xiaomi Redmi Note 13 PRO+ Plus 5G + 4G LTE (512GB + 12GB) 6.67 200MP Triple (Tmobile Mint Tello & Global) Global Bands Unlocked + (Fast Car Dual Charger Bundle) (Aurora Purple (Global ROM))","imageUrl":"https://m.media-amazon.com/images/I/81BCsF4teOL._AC_UY327_FMwebp_QL65_.jpg","price":34999},
+{"id":6,"name":"Macbook Air 2012","description":"Kogi skateboard tattooed, whatever portland fingerstache coloring book mlkshk leggings flannel dreamcatcher.","imageUrl":"https://m.media-amazon.com/images/I/81qOD8EZTjL._AC_UY327_FMwebp_QL65_.jpg","price":4994}
+];
+
+export default ProductData;
